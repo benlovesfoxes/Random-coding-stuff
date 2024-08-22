@@ -1,1 +1,2 @@
 # Random-coding-stuff
+just some random stuff ill be posting for those who wanna get started in very lite coding or what i call "copy and paste-a" ill have stuff like a password protected website, a about:blank launcher for any website and more!
